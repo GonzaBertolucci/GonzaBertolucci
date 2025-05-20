@@ -2,7 +2,7 @@
 
 <h1>Bienvenido a mi rincón en el mundo digital 🚀</h1> 
 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" align="right" width="350"/>
+<img src="https://i.gifer.com/fzUl.gif" align="right" width="80"/>
 
 Mi perfil de LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Gonzalo%20Bertolucci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalo-bertolucci)](https://www.linkedin.com/in/gonzalo-bertolucci) 
 
@@ -15,8 +15,9 @@ Mi perfil de LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Gonzalo%
 * .NET & C#
 * SQL Server
 * Git & GitHub
-* WinForms (por ahora 😅)
+* WinForms
 * HTML, CSS y algo de JavaScript
+* Java
 
 ---
 
