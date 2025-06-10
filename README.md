@@ -66,7 +66,7 @@ public class WhoAmI
 ---
 💼 Proyectos actuales
 
-<p>TP de Programación III - Gestión de Sucursales con SQL Server y .NET</p>
+<p>TP de Programación III - Gestión de Clinicas (TRABAJO PRACTICO INTEGRADOR) con SQL Server y .NET</p>
 <p>Estudio de APIs REST con ASP.NET Core</p>
 <p>Rendir AZ-900 de Microsoft</p>
 
