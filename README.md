@@ -1,4 +1,4 @@
-## Hey, [Gonzalo here!](https://github.com/GonzaloBertolucci) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Gonzalo here!](https://github.com/GonzaBertolucci) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Bienvenido a mi rincón en el mundo digital 🚀</h1> 
 
